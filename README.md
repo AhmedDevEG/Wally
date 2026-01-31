@@ -5,6 +5,7 @@
 
 **Wally** is a simple, fast, and elegant program to automatically change your desktop wallpaper. It's easy to use and customizable, giving your desktop a fresh look with just a few clicks! 🌟
 
+---
 ## Features
 
 - **Simple & Elegant**: User-friendly interface, no complicated setup! 😊  
@@ -14,7 +15,11 @@
 - **Wallhaven Integration**: Access thousands of high-quality wallpapers from Wallhaven directly within the app. 🎨  
 - **API (Optional)**: Wallhaven API allows you to access **additional features like NSFW content, Favorites Collections!** 📡💡  
    *Note: API usage is not required for normal use.*
+---
+## Preview
+<img width="1366" height="720" alt="1 (1)" src="https://github.com/user-attachments/assets/ee5014ab-957f-4c00-8821-b7c20a6d758e" />
 
+---
 ## Installation
 
 1. Download the latest release from the [Releases page](https://github.com/AhmedDevEG/Wally/releases).  
