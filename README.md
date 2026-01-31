@@ -30,5 +30,3 @@
 
 ## Credits
 - **Program icon**: Created by Dwi Ridwanto, sourced from [Flaticon](https://www.flaticon.com/free-icons/theme).
-
-**Enjoy a fresh desktop every day with Wally!** 🎉🖥️
