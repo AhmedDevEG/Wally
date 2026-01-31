@@ -1,4 +1,6 @@
-<img width="64" height="64" alt="Wally" src="https://github.com/user-attachments/assets/4ca20a45-2175-46d9-acab-df6d274d0d31" />
+<p align="center">
+  <img width="128" height="128" alt="Wally" src="https://github.com/user-attachments/assets/4ca20a45-2175-46d9-acab-df6d274d0d31" />
+</p>
 
 # Wally
 
