@@ -11,7 +11,7 @@
 - **Automatic Wallpaper Change** ⏳  
 - **Download Wallpapers**: Easily download high-quality images and set them as your wallpaper manually. 🌍💾  
 - **Lockscreen Support**: Change your lockscreen wallpaper to match your desktop. 🔒💻  
-- **Wallhaven Integration**: Access thousands of high-quality wallpapers from Wallhaven directly within the app. 🌄🎨  
+- **Wallhaven Integration**: Access thousands of high-quality wallpapers from Wallhaven directly within the app. 🎨  
 - **API (Optional)**: Wallhaven API allows you to access **additional features like NSFW content, Favorites Collections!** 📡💡  
    *Note: API usage is not required for normal use.*
 
