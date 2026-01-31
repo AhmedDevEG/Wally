@@ -9,10 +9,11 @@
 
 - **Simple & Elegant**: User-friendly interface, no complicated setup! 😊  
 - **Automatic Wallpaper Change** ⏳  
-- **Download Wallpapers**: Easily download high-quality images and set them as your wallpaper. 🌍💾  
+- **Download Wallpapers**: Easily download high-quality images and set them as your wallpaper manually. 🌍💾  
 - **Lockscreen Support**: Change your lockscreen wallpaper to match your desktop. 🔒💻  
-- **Wallhaven Integration**: Get the best wallpapers from Wallhaven with the built-in provider. 🌄🎨   
-- **API (Optional)**: you can use the optional API from **wallhaven** to extend features *(like: access NSFW content, Favorites......etc)*. 📡💡
+- **Wallhaven Integration**: Access thousands of high-quality wallpapers from Wallhaven directly within the app. 🌄🎨  
+- **API (Optional)**: Wallhaven API allows you to access **additional features like NSFW content, Favorites Collections!** 📡💡  
+   *Note: API usage is not required for normal use.*
 
 ## Installation
 
