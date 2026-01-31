@@ -18,7 +18,8 @@
    *Note: API usage is not required for normal use.*
 ---
 ## Preview
-<img width="1366" height="720" alt="1 (1)" src="https://github.com/user-attachments/assets/ee5014ab-957f-4c00-8821-b7c20a6d758e" />
+<img width="1366" height="720" alt="preview-modified" src="https://github.com/user-attachments/assets/62e6585d-5af3-45d8-8398-cb3a4a31fb9c" />
+
 
 ---
 ## Installation
