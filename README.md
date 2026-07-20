@@ -36,6 +36,7 @@ If you encounter any issue or find a bug, please:
 - 📢 Or contact us via the **Telegram channel**: [@A_F_Ls](https://t.me/A_F_Ls)
 
 We welcome any feedback or suggestions to help improve Wally! 💜
+
 ---
 
 ## Credits
