@@ -28,5 +28,15 @@
 2. Extract the files and run the app. 🖥️  
 3. Enjoy your new wallpapers! 🎉
 
+## 🤝 Support and Contribution
+
+If you encounter any issue or find a bug, please:
+
+- 🐙 Open an **issue** on the project’s GitHub.
+- 📢 Or contact us via the **Telegram channel**: [@A_F_Ls](https://t.me/A_F_Ls)
+
+We welcome any feedback or suggestions to help improve Wally! 💜
+---
+
 ## Credits
 - **Program icon**: Created by Dwi Ridwanto, sourced from [Flaticon](https://www.flaticon.com/free-icons/theme).
