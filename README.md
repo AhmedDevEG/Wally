@@ -25,7 +25,7 @@
 ## Installation
 
 1. Download the latest release from the [Releases page](https://github.com/AhmedDevEG/Wally/releases).  
-2. Extract the files and run the app. 🖥️  
+2. install and run the app. 🖥️  
 3. Enjoy your new wallpapers! 🎉
 
 ## 🤝 Support and Contribution
