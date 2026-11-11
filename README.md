@@ -17,6 +17,23 @@
 - **API (Optional)**: Wallhaven API allows you to access **additional features like NSFW content, Favorites Collections!** 📡💡  
    *Note: API usage is not required for normal use.*
 ---
+
+## 🎉 Wally is now available on the Microsoft Store!
+
+We're excited to announce that **Wally is officially available on the Microsoft Store!** 🚀
+
+<p align="center">
+  <a href="https://apps.microsoft.com/store/detail/9P2RQGJG5VBC?cid=DevShareMCLPCS">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download Wally from Microsoft Store" width="250" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Download Wally today and give your desktop a fresh new look! ✨</b>
+</p>
+
+---
+---
 ## Preview
 <img width="1366" height="720" alt="preview-modified" src="https://github.com/user-attachments/assets/62e6585d-5af3-45d8-8398-cb3a4a31fb9c" />
 
@@ -24,8 +41,10 @@
 ---
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/AhmedDevEG/Wally/releases).  
-2. install and run the app. 🖥️  
+You can also download the latest release from the [Releases page](https://github.com/AhmedDevEG/Wally/releases).
+
+1. Download and install the app. 🖥️
+2. Run Wally and customize your wallpaper experience.
 3. Enjoy your new wallpapers! 🎉
 
 ## 🤝 Support and Contribution
