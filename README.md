@@ -32,7 +32,7 @@ We're excited to announce that **Wally is officially available on the Microsoft 
   <b>Download Wally today and give your desktop a fresh new look! ✨</b>
 </p>
 
----
+
 ---
 ## Preview
 <img width="1366" height="720" alt="preview-modified" src="https://github.com/user-attachments/assets/62e6585d-5af3-45d8-8398-cb3a4a31fb9c" />
